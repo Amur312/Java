@@ -6,8 +6,18 @@
       <sourceFolder url="file://$MODULE_DIR$/LeetCode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-theory/basics/Lambda/test" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/java-theory/core/ObjectClass/test" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/java-theory/core/CollectionFramework/List" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.30/lombok-1.18.30.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
